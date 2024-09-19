@@ -1,0 +1,8 @@
+#tileLink:hover #exp{
+    opacity: 0.75;
+
+    
+}
+#tileLink:hover p{
+    display: inline;
+}
